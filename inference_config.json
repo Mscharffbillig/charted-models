@@ -283,7 +283,7 @@
     7
   ],
   "min_confidence": 45,
-  "trained_at": "2026-05-05T23:31:11.981114+00:00",
+  "trained_at": "2026-06-04T04:41:13.687383+00:00",
   "regime_thresholds": {
     "bull": 55,
     "chop": 65,
